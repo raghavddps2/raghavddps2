@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Information Science Engineering at MSRIT.
 - 🌱 I’m currently learning Computer Science.
-- 💬 Ask me about life and Tech(Newbie :p).
+- 💬 Ask me about life and Tech.
 - 📫 How to reach me: [Twitter - @raghavddps2](https://twitter.com/raghavddps2)
 
 
